@@ -1,0 +1,6 @@
+﻿  Renderer.cpp
+D:\openGL real test\CSC8502 2021\CSC8502 2021\ZXEmulator\Renderer.cpp(86,77): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\openGL real test\CSC8502 2021\CSC8502 2021\ZXEmulator\Renderer.cpp(86,70): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+  ZXEmulator.cpp
+  正在生成代码...
+  ZXEmulator.vcxproj -> D:\openGL real test\CSC8502 2021\CSC8502 2021\Debug\ZXEmulator.exe

@@ -1,0 +1,4 @@
+﻿tutorial1.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Renderer::Renderer(class Window &)" (??0Renderer@@QEAA@AEAVWindow@@@Z)，函数 main 中引用了该符号
+tutorial1.obj : error LNK2019: 无法解析的外部符号 "public: virtual __cdecl Renderer::~Renderer(void)" (??1Renderer@@UEAA@XZ)，函数 main 中引用了该符号
+tutorial1.obj : error LNK2019: 无法解析的外部符号 "public: virtual void __cdecl Renderer::RenderScene(void)" (?RenderScene@Renderer@@UEAAXXZ)，函数 main 中引用了该符号
+D:\openGL real test\CSC8502 2021\CSC8502 2021\x64\Debug\Tutorial 01 - Your First Triangle.exe : fatal error LNK1120: 3 个无法解析的外部命令

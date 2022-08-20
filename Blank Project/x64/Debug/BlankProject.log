@@ -1,0 +1,27 @@
+﻿  Coursework main.cpp
+  Rain.cpp
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Rain.cpp(11,60): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Rain.cpp(11,38): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Rain.cpp(12,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Rain.cpp(29,88): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Rain.cpp(29,66): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Rain.cpp(30,16): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  Renderer.cpp
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(396,71): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(396,32): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(646,25): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(678,25): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(710,25): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(744,25): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(888,33): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(1131,32): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(1131,18): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(1152,32): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(1152,18): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(1172,32): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(1172,18): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(1192,32): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(1192,18): warning C4244: “参数”: 从“double”转换到“GLint”，可能丢失数据
+D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\Blank Project\Renderer.cpp(1412,34): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+  正在生成代码...
+  BlankProject.vcxproj -> D:\CSC8502\openGL real test\CSC8502 2021 - 210029394 RuiShan\CSC8502 2021\x64\Debug\210029394 coursework.exe

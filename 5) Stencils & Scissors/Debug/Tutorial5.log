@@ -1,0 +1,12 @@
+﻿  Renderer.cpp
+D:\openGL real test\CSC8502 2021\CSC8502 2021\5) Stencils & Scissors\Renderer.cpp(61,39): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\openGL real test\CSC8502 2021\CSC8502 2021\5) Stencils & Scissors\Renderer.cpp(61,17): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\openGL real test\CSC8502 2021\CSC8502 2021\5) Stencils & Scissors\Renderer.cpp(60,48): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\openGL real test\CSC8502 2021\CSC8502 2021\5) Stencils & Scissors\Renderer.cpp(60,26): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+  tutorial5.cpp
+  正在生成代码...
+nclgl.lib(stb_image_aug.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“nclgl.lib(stb_image_aug.obj)”或在“D:\openGL real test\CSC8502 2021\CSC8502 2021\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+nclgl.lib(SOIL.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“nclgl.lib(SOIL.obj)”或在“D:\openGL real test\CSC8502 2021\CSC8502 2021\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+nclgl.lib(image_helper.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“nclgl.lib(image_helper.obj)”或在“D:\openGL real test\CSC8502 2021\CSC8502 2021\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+nclgl.lib(image_DXT.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“nclgl.lib(image_DXT.obj)”或在“D:\openGL real test\CSC8502 2021\CSC8502 2021\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Tutorial5.vcxproj -> D:\openGL real test\CSC8502 2021\CSC8502 2021\Debug\Tutorial 05 - Scissors and Stencils.exe
