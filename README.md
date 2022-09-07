@@ -1,5 +1,7 @@
 # Island-CSC8502
 CSC8502 Project of OpenGL
+# Youtube Link:
+Most of the functionality is demonstrated in the following demo [video](https://youtu.be/Z_FAlkurMro)
 
 # List of Features
 * Using heightmap to generate landscape
