@@ -18,7 +18,7 @@ CSC8502 Project of OpenGL
 
 # Normal Rendering Scene
 You can see a regular rendered scene without any filters or effects:
-![NormalScne](http://m.qpic.cn/psc?/6cbda8ec-3a34-4f2c-b58e-e699fa3b5e3c/bqQfVz5yrrGYSXMvKr.cqeJ.MGtYSxytwXBT4gA*YZfgrnK5HABlQz0XVneCEpeC.3hgEhxsgoJ8T8E7p6024uPxSjqAQhxYaaQXrIzOttg!/b&bo=LQZUAwAAAAADB14!&rf=viewer_4)
+![NormalScne](http://m.qpic.cn/psc?/6cbda8ec-3a34-4f2c-b58e-e699fa3b5e3c/bqQfVz5yrrGYSXMvKr.cqeJ.MGtYSxytwXBT4gA*YZfgrnK5HABlQz0XVneCEpeC.3hgEhxsgoJ8T8E7p6024uPxSjqAQhxYaaQXrIzOttg!/b&bo=LQZUAwAAAAADdy4!&rf=viewer_4)
 
 # Multiple Lights
 You can see the multi-light scene below:
